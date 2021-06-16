@@ -1,0 +1,508 @@
+{
+	"Quiz Name": "What Jedi are You?",
+	"Options": {
+		"Max Questions": 9999,
+		"Random Order": true
+	},
+	"Questions": [
+		{
+			"text": "A small child walks up to you on the street. \"Do you have any credits?\" the child asks. Do you:",
+			"answers": [
+				"Punt the child into next centry with a swift kick.",
+				"Admonish the child for harassing strangers.",
+				"Give the child some death sticks and say, \"Buy yourself something nice, kid.\"",
+				"Say nothing."
+			]
+		},
+		{
+			"text": "What is your favorite color?",
+			"answers": [
+				"Blue",
+				"Opal",
+				"Indigo",
+				"Cyan"
+			]
+		},
+		{
+			"text": "Jedi Master Oppo Rancisis asks you to stay after class for \"special\" training. How do you respond?",
+			 "answers": [
+				"Call HR.",
+				"Challenge him to a fight to the death.",
+				"Wink and say, \"gladly\".",
+				"Say nothing."
+			 ]
+		},
+		{
+			"text": "A zabrak insults your outfit. Do you:",
+			"answers":[
+				"Call them a dirty nerf herder!",
+				"Challenge them to a fight to the death.",
+				"Describe to them in great detail the injustices of the working conditions in the spice mines of Kessel.",
+				"Say Nothing."
+			]
+		},
+        {
+            "text": "During a mission to Malastare you encounter a gang of podracers who are harassing a nearby civilian, how do you react",
+            "answers": [
+                "Use the Force to choke out the blasted hooligans!",
+                "Calmly beseech the podracers to cease their chicanery.",
+                "Fight the gang head on, using non-lethal strikes to incapacitate rather than kill them.",
+                "Say Nothing."
+            ]
+        },
+        {
+            "text": "During a routine fact-finding mission a young Twi'lek girl approaches you and informs you that her family is being held by slavers. How do you respond?",
+            "answers" : [
+                "Inform the girl that this is the will of the Force.",
+                "Take the girl back to the academy and instruct her in the jedi arts.",
+                "Tell the girl she needs to let go of her attachments.",
+                "Say Nothing."
+            ]
+        },
+        {
+            "text": "You have been kidnapped by pirates. How do you react to this situation?",
+            "answers" : [
+                "Mediate on about the Force while you wait for your master to rescue you",
+                "Wait for the Pirates to be distracted, then Force-pull your lightsaber to you, cut your restraints, and fight your way out of there.",
+                "Rebuke the ways of the Jedi and join up with the pirates.",
+                "Say Nothing."
+            ]
+        },
+        {
+            "text": "Your master informs you that the journey to your next mission will take several rotations. How do you spend your time in Hyperspace?",
+            "answers" : [
+                "Meditate on the Will of the Force.",
+                "Practice your saber skills.",
+                "Complain to your master about how much you hate Hyperspace travel.",
+                "Say Nothing."
+            ]
+        },
+        {
+            "text": "During an archeology expedition of Malachor you are confronted by a Sith Lord who commands you to \"Join me or be destroyed!\". How do you react?",
+            "answers" : [
+                "Draw your saber and face the sith in combat!",
+                "Agree and join the Dark Side.",
+                "Tell te sith lord that they are the one who will turn, and then berate them until they agree to join the Light Side.",
+                "Say Nothing."
+            ]
+        },
+        {
+            "text": "An enemy Star Destroy warps out of Hyperspace and begins firing on the medical installation you are stationed at. How do you react?",
+            "answers" : [
+                "Inform the Senae that you are under attack and wait for reinforcements.",
+                "Hop in a fighter and face the Star Destroyer head on!",
+                "Attempt to establish communications with the enemy ship and negotiate a peaceful surrender.",
+                "Say Nothing."
+            ]
+        },
+        {
+            "text": "A very young Rodian child sneaks up behind you and steals your lightsaber. How do you react?",
+            "answers" : [
+                "Calmly Force-pull the saber back into your hand.",
+                "Admonish the child for stealing your saber, and send them on their way with a swift kick.",
+                "Laugh and tell the child to be careful not to cut their arms off.",
+                "Say Nothing."
+            ]
+        },
+        {
+            "text": "You have been called upon to negotiate a peace settlement between the Trade Federation and the Royal Government of Naboo, however the Trade Federation refuses to accept the terms of the negotiation. How do you bring the Trade Federation to the negotiating table?",
+            "answers" : [
+                "Sneak aboard the Trade Federation flagship and figure out what their plan is.",
+                "Kidnap the leader of the Trade Federation and use enhanced-Force-interrogation techniques to figure out what they're up to.",
+                "Send an unarmed Consular ship to the Trade Federation flagship, then detonate the plasma bomb you secretly placed inside.",
+                "Say Nothing."
+            ]
+        },
+        {
+            "text": "A whiney teenage boy comes to your hut to deliver a droid that he claims belongs to you. You don't seem to ever recall ownging a droid. How do you respond?",
+            "answers" : [
+                "Send the boy away, and admonish him for coming because the Jundland wastes are not to be traveled lightly.",
+                "Ignore the droid, take the boy from his family and train him in the Jedi arts.",
+                "Act like a crazy person and try to eat all of the boy's food.",
+                "Say Nothing."
+            ]
+        }
+	
+	],
+	"Results Header": "You are the famed jedi:\n",
+	"Results":[
+    {
+        "Name": "Aayla Secura",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/4d/Aayla_Secura_SWE.png/revision/latest?cb=20180121065247",
+        "link": "https://starwars.fandom.com/wiki/Aayla_Secura"
+    },
+    {
+        "Name": "Adi Gallia",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/ba/AdiGallia.jpg/revision/latest?cb=20080126123820",
+        "link": "https://starwars.fandom.com/wiki/Adi_Gallia"
+    },
+    {
+        "Name": "Agen Kolar",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/44/Agen_Kolar_SWCT.png/revision/latest?cb=20170713061723",
+        "link": "https://starwars.fandom.com/wiki/Agen_Kolar"
+    },
+    {
+        "Name": "Anakin Skywalker",
+        "weight": 0.1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/6/6f/Anakin_Skywalker_RotS.png/revision/latest?cb=20130621175844",
+        "link": "https://starwars.fandom.com/wiki/Anakin_Skywalker"
+    },
+    {
+        "Name": "Ashla",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/bc/Wiki.png/revision/latest/zoom-crop/width/200/height/200?cb=20160101060902",
+        "link": "https://starwars.fandom.com/wiki/Ashla"
+    },
+    {
+        "Name": "Bairdon Jace",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/1/16/Bairdon_Jace_hshot.jpg/revision/latest?cb=20071217174223",
+        "link": "https://starwars.fandom.com/wiki/Bairdon_Jace"
+    },
+    {
+        "Name": "Barriss Offee",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/3/37/Barrisprofile2.jpg/revision/latest?cb=20070728014608",
+        "link": "https://starwars.fandom.com/wiki/Barriss_Offee"
+    },
+    {
+        "Name": "Bene",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/8/8d/Padawan_Bene.jpg/revision/latest?cb=20090622191605",
+        "link": "https://starwars.fandom.com/wiki/Bene"
+    },
+    {
+        "Name": "Bultar Swan",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/1/1b/Bultar_Swan_fight.png/revision/latest?cb=20150531030350",
+        "link": "https://starwars.fandom.com/wiki/Bultar_Swan"
+    },
+    {
+        "Name": "Chian",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/0/0d/Chian.jpg/revision/latest?cb=20160504210928",
+        "link": "https://starwars.fandom.com/wiki/Chian"
+    },
+    {
+        "Name": "Cin Drallig",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/42/Cin_Drallig_SWE.png/revision/latest?cb=20201203132934",
+        "link": "https://starwars.fandom.com/wiki/Cin_Drallig"
+    },
+    {
+        "Name": "Coleman Kcaj",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/a/ae/Coleman_Kcaj.png/revision/latest?cb=20130214060027",
+        "link": "https://starwars.fandom.com/wiki/Coleman_Kcaj"
+    },
+    {
+        "Name": "Coleman Trebor",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/f/f2/ColemanTrebor-DB.png/revision/latest?cb=20150920194631",
+        "link": "https://starwars.fandom.com/wiki/Coleman_Trebor"
+    },
+    {
+        "Name": "Count Dooku",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/b8/Dooku_Headshot.jpg/revision/latest?cb=20180430181839",
+        "link": "https://starwars.fandom.com/wiki/Count_Dooku"
+    },
+    {
+        "Name": "Darth Maul",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/8/89/MaulHS_SWI185.png/revision/latest?cb=20181108061212",
+        "link": "https://starwars.fandom.com/wiki/Darth_Maul"
+    },
+    {
+        "Name": "Darth Sidious",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/9/98/Palpatine-TROS-infobox.jpg/revision/latest?cb=20200401080828",
+        "link": "https://starwars.fandom.com/wiki/Darth_Sidious"
+    },
+    {
+        "Name": "Depa Billaba",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/a/aa/Depa-32BBY.jpg/revision/latest?cb=20071002165201",
+        "link": "https://starwars.fandom.com/wiki/Depa_Billaba"
+    },
+    {
+        "Name": "Eeth Koth",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/4e/EethKothCardTrader.png/revision/latest?cb=20200807032900",
+        "link": "https://starwars.fandom.com/wiki/Eeth_Koth"
+    },
+    {
+        "Name": "Even Piell",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/e/e3/Piell_infobox.jpg/revision/latest?cb=20120218005034",
+        "link": "https://starwars.fandom.com/wiki/Even_Piell"
+    },
+    {
+        "Name": "FiEk Sirch",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/bc/Wiki.png/revision/latest/zoom-crop/width/200/height/200?cb=20160101060902",
+        "link": "https://starwars.fandom.com/wiki/FiEk_Sirch"
+    },
+    {
+        "Name": "J. K. Burtola",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/3/30/JK_Burtola.png/revision/latest?cb=20180721105522",
+        "link": "https://starwars.fandom.com/wiki/J._K._Burtola"
+    },
+    {
+        "Name": "Jempa",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/5/56/Jempa.jpg/revision/latest?cb=20180721103918",
+        "link": "https://starwars.fandom.com/wiki/Jempa"
+    },
+    {
+        "Name": "Jocasta Nu",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/44/Jocasta_Nu.jpg/revision/latest?cb=20090909121527",
+        "link": "https://starwars.fandom.com/wiki/Jocasta_Nu"
+    },
+    {
+        "Name": "J'oopi Shé",
+        "weight": 1,
+        "image":"https://static.wikia.nocookie.net/starwars/images/5/5a/Joopi_She_face.jpg/revision/latest/scale-to-width-down/1000?cb=20170609141448",
+        "link": "https://starwars.fandom.com/wiki/J%27oopi_Sh%C3%A9"
+    },
+    {
+        "Name": "Khatt Qiyn",
+        "weight": 1,
+        "link": "https://starwars.fandom.com/wiki/Khaat_Qiyn",
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/bf/Khaat_Qiyn%28headshot%29.JPG/revision/latest?cb=20081126015543"
+    },
+    {
+        "Name": "Ki Adi Mundi",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/6/6d/KiAdiMundi-SWCT.png/revision/latest?cb=20200807031541",
+        "link": "https://starwars.fandom.com/wiki/Ki_Adi_Mundi"
+    },
+    {
+        "Name": "Kit Fisto",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/4c/Kit_Fisto_Card_Trader.png/revision/latest?cb=20180225000050",
+        "link": "https://starwars.fandom.com/wiki/Kit_Fisto"
+    },
+    {
+        "Name": "Kylo Ren",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/bc/KyloRenVFcover-TROS.png/revision/latest?cb=20190605061645",
+        "link": "https://starwars.fandom.com/wiki/Kylo_Ren"
+    },
+    {
+        "Name": "Leia Organa Solo",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/8/89/Leia_endorpromo02.jpg/revision/latest?cb=20080506155343",
+        "link": "https://starwars.fandom.com/wiki/Leia_Organa_Solo"
+    },
+    {
+        "Name": "Liam",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/41/Liam-bearclan.jpg/revision/latest?cb=20070112185142",
+        "link": "https://starwars.fandom.com/wiki/Liam"
+    },
+    {
+        "Name": "Luke Skywalker",
+        "weight": 0.1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/3/3d/LukeSkywalker.png/revision/latest/scale-to-width-down/2000?cb=20201218190434",
+        "link": "https://starwars.fandom.com/wiki/Luke_Skywalker"
+    },
+    {
+        "Name": "Luminara Unduli",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/21/LuminaraHS-SWE_%28new%29.png/revision/latest?cb=20180206232118",
+        "link": "https://starwars.fandom.com/wiki/Luminara_Unduli"
+    },
+    {
+        "Name": "Mace Windu",
+        "weight": 0.1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/f/fc/Mace_Windu.jpg/revision/latest?cb=20071230055326",
+        "link": "https://starwars.fandom.com/wiki/Mace_Windu"
+    },
+    {
+        "Name": "Ma'kis'shaalas",
+        "weight": 1,
+        "link": "https://starwars.fandom.com/wiki/Ma%27kis%27shaalas",
+        "image": "https://static.wikia.nocookie.net/starwars/images/d/dd/Ma%27kis%27shaalas.jpg/revision/latest?cb=20170524133528"
+    },
+    {
+        "Name": "Mari Amithest",
+        "weight": 1,
+        "link": " https://starwars.fandom.com/wiki/Mari_Amithest",
+        "image": "https://static.wikia.nocookie.net/starwars/images/e/e1/MariAmithest_CVD.png/revision/latest?cb=20180920174727"
+    },
+    {
+        "Name": "Melik Galerha",
+        "weight": 1,
+        "link": "https://starwars.fandom.com/wiki/Melik_Galerha",
+        "image": "https://static.wikia.nocookie.net/starwars/images/3/39/MelikGalerha-CSWE.jpg/revision/latest?cb=20100304212555"
+    },
+    {
+        "Name": "Nicanas Tassu",
+        "weight": 1,
+        "link": "https://starwars.fandom.com/wiki/Nicanas_Tassu",
+        "image": "https://static.wikia.nocookie.net/starwars/images/c/cb/NicanusTassu-AOTC.png/revision/latest?cb=20130430044235"
+    },
+    {
+        "Name": "Obi Wan Kenobi",
+        "weight": 0.1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/4e/ObiWanHS-SWE.jpg/revision/latest?cb=20111115052816",
+        "link": "https://starwars.fandom.com/wiki/Obi_Wan_Kenobi"
+    },
+    {
+        "Name": "Oppo Rancisis",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/4/40/Oppo_rancisis2.jpg/revision/latest?cb=20080626153656",
+        "link": "https://starwars.fandom.com/wiki/Oppo_Rancisis"
+    },
+    {
+        "Name": "Pablo Jill",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/b3/PabloJillTVE.png/revision/latest?cb=20180419220442",
+        "link": "https://starwars.fandom.com/wiki/Pablo_Jill"
+    },
+    {
+        "Name": "Plo Koon",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/bf/PloKoonCardTrader.png/revision/latest?cb=20180213154354",
+        "link": "https://starwars.fandom.com/wiki/Plo_Koon"
+    },
+    {
+        "Name": "Que-Mars Reath-Gom",
+        "weight": 1,
+        "link": "https://starwars.fandom.com/wiki/Que-Mars_Redath-Gom",
+        "image": "https://static.wikia.nocookie.net/starwars/images/6/64/Que-Mars_Redath-Gom.png/revision/latest?cb=20181207182926"
+    },
+    {
+        "Name": "Qui Gon Jinn",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/6/66/Qui-Gon_Jinn_SWFB.png/revision/latest?cb=20160910051518",
+        "link": "https://starwars.fandom.com/wiki/Qui_Gon_Jinn"
+    },
+    {
+        "Name": "Quinlan Vos",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/e/e3/Quinlan_Vos.png/revision/latest?cb=20150602012430",
+        "link": "https://starwars.fandom.com/wiki/Quinlan_Vos"
+    },
+    {
+        "Name": "Rey",
+        "weight": 0.2,
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/2b/Rey_TROS_Fathead.png/revision/latest?cb=20191007072042",
+        "link": "https://starwars.fandom.com/wiki/Rey"
+    },
+    {
+        "Name": "Saesee Tiin",
+        "weight": 1,
+        "link": "https://starwars.fandom.com/wiki/Saesee_Tiin",
+        "image": "https://static.wikia.nocookie.net/starwars/images/a/a3/SaeseeTiin-SWCT.png/revision/latest?cb=20200807024726"
+    },
+    {
+        "Name": "Sar Labooda",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/3/3b/SarLabooda-AOTC.png/revision/latest?cb=20200629001606",
+        "link": "https://starwars.fandom.com/wiki/Sar_Labooda"
+    },
+    {
+        "Name": "Saylind Donels",
+        "weight": 1,
+        "link": "https://starwars.fandom.com/wiki/Saylind_Donels",
+        "image": "https://static.wikia.nocookie.net/starwars/images/0/0e/Saylind_CVD.png/revision/latest?cb=20180920175159"
+    },
+    {
+        "Name": "Sephjet Josall",
+        "weight": 1,
+        "link": "https://starwars.fandom.com/wiki/Sephjet_Josall",
+        "image": "https://static.wikia.nocookie.net/starwars/images/e/e2/SephjetJosall.png/revision/latest?cb=20130430044120"
+    },
+    {
+        "Name": "Shaak Ti",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/2/20/Shaak_Ti_closeup-SWE.png/revision/latest?cb=20160914002036",
+        "link": "https://starwars.fandom.com/wiki/Shaak_Ti"
+    },
+    {
+        "Name": "Shadday Potkin",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/f/fd/Shadday_Potkin.jpg/revision/latest?cb=20180211214817",
+        "link": "https://starwars.fandom.com/wiki/Shadday_Potkin"
+    },
+    {
+        "Name": "Snoke",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/9/9d/SnokeTLJ.png/revision/latest?cb=20170910213521",
+        "link": "https://starwars.fandom.com/wiki/Snoke"
+    },
+    {
+        "Name": "Sora Bulq",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/6/68/Sora_bulq_cw.png/revision/latest?cb=20170610113727",
+        "link": "https://starwars.fandom.com/wiki/Sora_Bulq"
+    },
+    {
+        "Name": "Stass Allie",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/5/54/Stass_Allie_Headshot.jpg/revision/latest?cb=20071113203718",
+        "link": "https://starwars.fandom.com/wiki/Stass_Allie"
+    },
+    {
+        "Name": "Tan Yuster",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/bc/Wiki.png/revision/latest/zoom-crop/width/200/height/200?cb=20160101060902",
+        "link": "https://starwars.fandom.com/wiki/Tan_Yuster"
+    },
+    {
+        "Name": "Tarados Gon",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/3/35/Tarados_Gon.png/revision/latest?cb=20190124183416",
+        "link": "https://starwars.fandom.com/wiki/Tarados_Gon"
+    },
+    {
+        "Name": "Whie Malreaux",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/a/ab/WhieMalreaux-SWCTP.jpg/revision/latest?cb=20071214044957",
+        "link": "https://starwars.fandom.com/wiki/Whie_Malreaux"
+    },
+    {
+        "Name": "Yaddle",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/7/7f/Yaddle-SWCT.png/revision/latest?cb=20200807023512",
+        "link": "https://starwars.fandom.com/wiki/Yaddle"
+    },
+    {
+        "Name": "Yarael Poof",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/b/b2/YaraelPoof-SWCT.png/revision/latest?cb=20200810053344",
+        "link": "https://starwars.fandom.com/wiki/Yarael_Poof"
+    },
+    {
+        "Name": "Yoda",
+        "weight": 0.1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/d/d6/Yoda_SWSB.png/revision/latest?cb=20150206140125",
+        "link": "https://starwars.fandom.com/wiki/Yoda"
+    },
+    {
+        "Name": "Zett Jukassa",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/d/d3/ZettJukassa-SS.jpg/revision/latest?cb=20210310031858",
+        "link": "https://starwars.fandom.com/wiki/Zett_Jukassa"
+    },
+    {
+        "Name": "Ahsoka Tano",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/1/12/AhsokaTano-AG.png/revision/latest?cb=20201130235153",
+        "link": "https://starwars.fandom.com/wiki/Ahsoka_Tano"
+    },
+    {
+        "Name": "Kanan Jarrus",
+        "weight": 1,
+        "image": "https://static.wikia.nocookie.net/starwars/images/1/1b/KananJediNight.jpg/revision/latest?cb=20180301042558",
+        "link": "https://starwars.fandom.com/wiki/Kanan_Jarrus"
+    }
+  ]
+}
